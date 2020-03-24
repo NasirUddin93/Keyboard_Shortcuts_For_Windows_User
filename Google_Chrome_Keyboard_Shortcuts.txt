@@ -1,0 +1,2 @@
+ctrl + tab // change the open page
+ctrl + 1-9 //Go to specific page
