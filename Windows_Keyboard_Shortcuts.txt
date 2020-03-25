@@ -3,3 +3,8 @@ Win + s  // Windows search option
 Win + x // window short search
 Ctrl + d //go to desktop
 Backspace //back directory
+WIN + E //Open file explorer
+WIN + M	 //Minimize all windows
+WIN + Print Screen ///	Screen short and store it on Snapshot folder
+Shift + delete //	Permanently delete skip recycle bin
+WIN + T	//Cycle among pinned apps

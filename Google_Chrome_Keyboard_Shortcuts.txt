@@ -3,3 +3,15 @@ Ctrl + 1-9 //Go to specific page
 spacebar // start and stop youtube video
 right arrow // 5 second forward youtube video
 left arrow // 5 second backward youtube video
+Ctrl + J	//Open Download page
+Ctrl + shit + Delete 	//Clear all browse history
+Alt + Home 	//Open home page of google
+Alt + left arrow	//Back a page
+F11	//Full screen
+Ctrl + 0	//Browser in default size
+Ctrl + D	//Save current page to Bookmark
+Ctrl + shift + O	//Bookmark manager
+Ctrl + shit + N	//Search privately
+Ctrl + shift + T	//Back multiple closed windows
+Spacebar 	//Page is Going to down 
+Shift + spacebar 	//Page will come up
