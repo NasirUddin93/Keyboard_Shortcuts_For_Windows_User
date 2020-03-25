@@ -1,2 +1,5 @@
-ctrl + tab // change the open page
-ctrl + 1-9 //Go to specific page
+Ctrl + Tab // change the open page
+Ctrl + 1-9 //Go to specific page
+spacebar // start and stop youtube video
+right arrow // 5 second forward youtube video
+left arrow // 5 second backward youtube video

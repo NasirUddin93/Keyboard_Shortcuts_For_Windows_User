@@ -1,1 +1,5 @@
 Alt + Tab  //Change the open window
+Win + s  // Windows search option
+Win + x // window short search
+Ctrl + d //go to desktop
+Backspace //back directory

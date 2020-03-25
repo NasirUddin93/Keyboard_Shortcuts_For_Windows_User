@@ -1,3 +1,8 @@
 F5 //Debug and run the project on server
+Ctrl + Shift + b // Build the project
+Ctrl + F5 //Start project without de-bugging
 F12 // Go to related code
 Ctrl + Tab // change the open page
+Ctrl + d // Duplicate the line
+Ctrl + Shift + n //Create New project
+Ctrl + l //Delete whole line
